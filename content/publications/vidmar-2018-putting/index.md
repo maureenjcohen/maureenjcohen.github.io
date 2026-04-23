@@ -2,7 +2,7 @@
 title: 'Putting the propellant into the fuel tank\": Developing the technical and
   operational framework for Gateway Earth Space access architecture'
 date: '2018-01-01'
-draft: true
+draft: false
 publishDate: '2026-04-23T13:44:35.530005Z'
 authors:
 - Matjaz Vidmar

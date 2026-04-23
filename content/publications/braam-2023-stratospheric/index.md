@@ -2,7 +2,7 @@
 title: Stratospheric dayside-to-nightside circulation drives the 3D ozone 
   distribution on synchronously rotating rocky exoplanets
 date: '2023-01-01'
-draft: true
+draft: false
 publishDate: '2026-04-23T13:44:48.001421Z'
 authors:
 - Marrick Braam

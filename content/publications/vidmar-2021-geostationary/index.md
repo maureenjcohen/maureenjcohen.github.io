@@ -1,7 +1,7 @@
 ---
 title: 'Geostationary Space Station: Necessary Next Step for the Space Ecosystem'
 date: '2021-01-01'
-draft: true
+draft: false
 publishDate: '2026-04-23T13:44:47.287734Z'
 authors:
 - Matjaz Vidmar

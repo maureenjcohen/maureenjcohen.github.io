@@ -1,7 +1,7 @@
 ---
 title: Is the deep space gateway in the right place?
 date: '2019-01-01'
-draft: true
+draft: false
 publishDate: '2026-04-23T13:44:46.293466Z'
 authors:
 - Matjaz Vidmara

@@ -2,7 +2,7 @@
 title: 'Three worlds in one: Venus as a natural laboratory for the effect of rotation
   period on atmospheric circulation'
 date: '2025-01-01'
-draft: true
+draft: false
 publishDate: '2026-04-23T13:44:49.682463Z'
 authors:
 - Maureen Cohen

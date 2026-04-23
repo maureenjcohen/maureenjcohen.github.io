@@ -2,7 +2,7 @@
 title: Longitudinally asymmetric stratospheric oscillation on a tidally locked 
   exoplanet
 date: '2022-01-01'
-draft: true
+draft: false
 publishDate: '2026-04-23T13:44:46.956563Z'
 authors:
 - Maureen Cohen

@@ -2,7 +2,7 @@
 title: 'Haze optical depth in exoplanet atmospheres varies with rotation rate: Implications
   for observations'
 date: '2024-01-01'
-draft: true
+draft: false
 publishDate: '2026-04-23T13:44:48.340243Z'
 authors:
 - Maureen Cohen

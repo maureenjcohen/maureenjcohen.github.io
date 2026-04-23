@@ -2,7 +2,7 @@
 title: Traveling planetary-scale waves cause cloud variability on tidally locked
   aquaplanets
 date: '2023-01-01'
-draft: true
+draft: false
 publishDate: '2026-04-23T13:44:47.657007Z'
 authors:
 - Maureen Cohen
