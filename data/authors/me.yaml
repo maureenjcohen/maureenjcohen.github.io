@@ -21,7 +21,7 @@ bio: |
 
 affiliations:
   - name: The Open University
-    url: www.open.ac.uk
+    url: https://www.open.ac.uk
 
 links:
   - icon: at-symbol
@@ -81,6 +81,7 @@ skills:
       - label: Machine learning
       - label: Time series analysis
       - label: Image processing/computer vision
+      - label: HPC
   - name: Research & Communication
     items:
       - label: Academic writing
