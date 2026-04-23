@@ -1,7 +1,7 @@
 ---
 title: Oscillations in terrestrial planetary atmospheres
 date: '2025-01-01'
-draft: true
+draft: false
 publishDate: '2026-04-23T13:44:49.326514Z'
 authors:
 - Joseph Michael Battalio
