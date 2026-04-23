@@ -91,10 +91,14 @@ skills:
 
 languages:
   - name: English
+    level: 5
     label: Native
   - name: German
+    level: 5
     label: Fluent
   - name: French
+    level: 3
     label: Improver
   - name: Italian
+    level: 2
     label: Improver
