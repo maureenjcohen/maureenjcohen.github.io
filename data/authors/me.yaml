@@ -12,12 +12,10 @@ postnominals:
   - PhD
 role: Planetary Scientist & Research Software Engineer
 bio: |
-  I am a computational research scientist in planetary atmospheres. I work with planetary climate models and spacecraft data,
-  relying on a range of methodologies and tools such as high-performance computing, time series and spectral analysis,
-  image processing, and machine learning. I am also a research software engineer with open-source code contributions to ExoPlaSim and
-  the Venus Planetary Climate Model. My research focuses on atmospheric oscillations, waves, and transport processes, 
-  while my computing interests include simulation performance optimisation, containerisation, and scientific computing
-  in general.
+  I am a planetary and atmospheric scientist specialising in 3-D numerical climate modelling. My current research interests
+  include the atmospheric and climate dynamics of Venus, modelling for in-situ planetary probes, machine learning applications
+  in planetary science, and Venus-like exoplanets. I am also interested in simulation performance optimisation,
+  containerisation, and scientific computing in general.
 
 affiliations:
   - name: The Open University
