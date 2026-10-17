@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: publications/
     weight: 11
+  - name: Software
+    url: projects/
+    weight: 12
   - name: Experience
     url: experience/
     weight: 20
